@@ -1,2 +1,2 @@
 # Code-Sample-for-application
-Code sample for application
+please check code_sample.py
