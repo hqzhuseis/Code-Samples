@@ -1,3 +1,5 @@
+# this is the code to download continous waveform from IRIS and preprocess the data by filtering and downsampling
+
 import os
 import urllib
 import shutil
